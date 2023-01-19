@@ -9,7 +9,6 @@
 * Using the Matcher
 * Writing match patterns
 * Strings to hashes
-* Vocab, hashes and lexemes
 * Creating a Doc
 * Docs, spans and entities from scratch
 * Data structures best practices
