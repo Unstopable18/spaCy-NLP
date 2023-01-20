@@ -12,7 +12,7 @@
 * Creating a Doc
 * Docs, spans and entities from scratch
 * Data structures best practices
-* inspecting word vectors
+* Inspecting word vectors
 * Comparing similarities
 * Debugging patterns (1)
 * Debugging patterns (2)
