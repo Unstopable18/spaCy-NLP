@@ -14,7 +14,6 @@
 * Data structures best practices
 * Inspecting word vectors
 * Comparing similarities
-* Debugging patterns (1)
-* Debugging patterns (2)
+* Debugging patterns
 * Efficient phrase matching
 * Extracting countries and relationships
