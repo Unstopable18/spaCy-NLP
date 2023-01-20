@@ -17,7 +17,7 @@
 * Debugging patterns
 * Efficient phrase matching
 * Extracting countries and relationships
-* What happens when you call nip?
+* What happens when you call nlp?
 * Inspecting the pipeline
 * Use cases for custom components
 * Simple components
