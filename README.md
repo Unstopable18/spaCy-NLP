@@ -17,13 +17,10 @@
 * Debugging patterns
 * Efficient phrase matching
 * Extracting countries and relationships
-* What happens when you call nlp?
 * Inspecting the pipeline
-* Use cases for custom components
 * Simple components
 * Complex components
-* Setting extension attributes (1)
-* Setting extension attributes (2)
+* Setting extension attributes
 * Entities and extensions
 * Components with extensions
 * Processing streams
